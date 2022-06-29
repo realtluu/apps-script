@@ -1,1 +1,1 @@
-# appscript
+# apps-script
